@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-customerio",
+  "name": "@astronomerio/analytics.js-integration-customerio",
   "description": "The Customerio analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
